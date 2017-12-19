@@ -1,4 +1,4 @@
-var regExpName = /^[а-яА-ЯёЁa-zA-Z]+$/;
+var regExpName = /^[а-яА-ЯёЁa-z A-Z]+$/;
 var regExpEmail = /^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
 var regExpPassword = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$/;
 
