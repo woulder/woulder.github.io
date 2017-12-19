@@ -2,7 +2,249 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2184cc31-b2fb-4f88-9579-6871b579c795" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/layout.css" afterPath="$PROJECT_DIR$/build/css/layout.css" />
+      <change beforePath="$PROJECT_DIR$/images/barcelona-boardwalk.jpg" afterPath="$PROJECT_DIR$/build/images/barcelona-boardwalk.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/index.jpg" afterPath="$PROJECT_DIR$/build/images/index.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/sea-2151618_960_720-450x250.jpg" afterPath="$PROJECT_DIR$/build/images/sea-2151618_960_720-450x250.jpg" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" afterPath="$PROJECT_DIR$/build/js/index.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/Gruntfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/.jshintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-commonjs-generator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-glyphicons-data-generator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-lessdoc-parser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-raw-files-generator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/change-version.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/configBridge.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/npm-shrinkwrap.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/sauce_browsers.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/affix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/transition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/alerts.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/badges.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/bootstrap.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/breadcrumbs.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/button-groups.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/buttons.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/carousel.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/close.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/code.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/component-animations.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/dropdowns.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/forms.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/glyphicons.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/grid.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/input-groups.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/jumbotron.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/labels.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/list-group.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/media.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/alerts.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/background-variant.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/border-radius.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/buttons.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/center-block.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/clearfix.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/forms.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/gradients.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/grid-framework.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/grid.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/hide-text.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/image.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/labels.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/list-group.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/nav-divider.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/nav-vertical-align.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/opacity.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/pagination.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/panels.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/progress-bar.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/reset-filter.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/reset-text.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/resize.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/responsive-visibility.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/size.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/tab-focus.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/table-row.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/text-emphasis.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/text-overflow.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/vendor-prefixes.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/modals.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/navbar.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/navs.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/normalize.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/pager.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/pagination.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/panels.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/popovers.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/print.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/progress-bars.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/responsive-embed.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/responsive-utilities.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/scaffolding.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/tables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/theme.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/thumbnails.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/tooltip.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/type.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/utilities.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/wells.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseXML.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/DOMEval.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/nodeName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready-no-deferred.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/readyException.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/stripAndCollapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHiddenWithinTree.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rmargin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred/exceptionHook.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/ajax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/alias.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/ObjectFunctionString.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/concat.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/fnToString.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/getProto.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rnothtmlwhite.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,21 +265,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="82" lean-forward="false" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="82" />
+            <state relative-caret-position="5603">
+              <caret line="308" column="0" lean-forward="true" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="69">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -62,10 +304,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
@@ -95,7 +334,18 @@
             <path>
               <item name="woulder.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="woulder.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="woulder.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woulder.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="woulder.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woulder.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -110,6 +360,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="add_unversioned_files" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\st1ng\Desktop\woulder.github.io\build" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,15 +391,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513689286899</updated>
-      <workItem from="1513689288077" duration="1266000" />
+      <workItem from="1513689288077" duration="1660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1266000" />
+    <option name="totallyTimeSpent" value="1660000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -177,18 +432,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="82" lean-forward="false" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="82" />
+        <state relative-caret-position="5603">
+          <caret line="308" column="0" lean-forward="true" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
