@@ -1,4 +1,4 @@
-var regExpName = /^[a-z A-Z'-]{2,32}$/;
+var regExpName = /^[A-Za-z.!@?#"$%&:;() *\+,\/;\-=[\\\]\^_{|}<>\u0400-\u04FF]*$/;
 var regExpEmail = /^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
 var regExpPassword = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$/;
 
@@ -17,8 +17,7 @@ $('#registerBtn').click(function (event) {
 
         if (!regExpName.test($('#name').val())) {
             $('#nameAlert').show();
-            $('#emailAlert').show()
-            $('#passwordAlert').show()
+
         }
 
         if(!regExpEmail.test($('#newemail').val())) {
